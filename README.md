@@ -11,14 +11,14 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-.. image:: https://wakatime.com/share/@metidev/75efc3d3-6ad8-4f19-9cc2-2523b07fc799.png
-    :target: https://wakatime.com/
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 [![](https://visitcount.itsvg.in/api?id=metidev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/2a8d99ad-963e-4dc3-9d8e-92c4a2612663.svg)](https://wakatime.com/@2a8d99ad-963e-4dc3-9d8e-92c4a2612663)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
