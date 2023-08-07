@@ -11,7 +11,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://wakatime.com/share/@metidev/f60b52ea-e397-48c2-83bb-5dc12949e4e2.png">
+.. image:: https://wakatime.com/share/@metidev/75efc3d3-6ad8-4f19-9cc2-2523b07fc799.png
+    :target: https://wakatime.com/
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
