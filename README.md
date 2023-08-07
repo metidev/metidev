@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Cat with Tears of Joy" width="25" height="25" /> # 💫 About Me:
 <br> Innovative web and Android developer with a strong focus on user-friendly applications.<br> Proficient in HTML, CSS, JavaScript, PHP, C#, Java. <br>Collaborative team player experienced in delivering high-quality solutions aligned with business goals. <br>Committed to continuous learning and staying updated with the latest industry trends. <br>Let's connect and bring your ideas to life
 
 
