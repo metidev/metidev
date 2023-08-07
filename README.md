@@ -10,10 +10,12 @@
 # 📊 GitHub Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=metidev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<br>
 <img src="https://profile-counter.glitch.me/{metidev}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
