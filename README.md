@@ -1,21 +1,34 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Cat with Tears of Joy" width="25" height="25" /> About Me:
+# <img src="https://camo.githubusercontent.com/d5cecab4395f3e10b6043e677f65113b660a98e4e1bfc35f4d3b1a0f0c5504fc/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="25" height="25" /> About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Vazir+Matn&size=27&duration=4000&pause=1000&color=009FF7&vCenter=true&width=435&lines=Hi%2C+I+am+Mahdi+Anvari;+A+full+stack+developer)](https://git.io/typing-svg)
 <br> Innovative web and Android developer with a strong focus on user-friendly applications.<br> Proficient in HTML, CSS, JavaScript, PHP, C#, Java. <br>Collaborative team player experienced in delivering high-quality solutions aligned with business goals. <br>Committed to continuous learning and staying updated with the latest industry trends. <br>Let's connect and bring your ideas to life
+<br><br>
 
+<h1 align="center"> <img src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px">  Tech Stack</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,cs,js,jquery,postman,mysql,androidstudio,firebase,html,css,sass,vscode,idea,bootstrap,ps,pr,figma,git&perline=10" />
+  </a>
+</p>
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meti.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdi-anvari-63885a27b) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+<h1 align="center"> <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30px">  GitHub Stats</h1>
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+  
+</div>
+<br>
 
+<div align="center">
+    <h2 align="center"> <img src="https://camo.githubusercontent.com/48af0257b662d5fd2a616b666ea0ca658132483781ef48ce845e4fdd1c6a11ed/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" width="30px"> Snake eating my Contribution</h2>
+    <img src="https://github.com/metidev/snake/blob/main/github-user-contribution.svg" width="100%">  
+</div>
 
+<h1 align="center"> <img src="https://camo.githubusercontent.com/8d2e5ade67746708622cf493822701cc52ab670012770657881559c5b573541c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="30px"> Random Dev Quote</h1>
+<div align="center">
 
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=metidev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
