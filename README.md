@@ -21,7 +21,7 @@
 
 <div align="center">
     <h2 align="center"> <img src="https://camo.githubusercontent.com/48af0257b662d5fd2a616b666ea0ca658132483781ef48ce845e4fdd1c6a11ed/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" width="30px"> Snake eating my Contribution</h2>
-    <img src="https://github.com/metidev/snake/blob/main/github-user-contribution.svg" width="100%">  
+    <img src="https://github.com/metidev/metidev/blob/output/github-contribution-grid-snake-dark.svg" width="100%">  
 </div>
 
 <h1 align="center"> <img src="https://camo.githubusercontent.com/8d2e5ade67746708622cf493822701cc52ab670012770657881559c5b573541c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966" width="30px"> Random Dev Quote</h1>
