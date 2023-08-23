@@ -14,7 +14,8 @@
 <h1 align="center"> <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30px">  GitHub Stats</h1>
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=dark&hide_border=false)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&langs_count=8&layout=compact&theme=dark)
   
 </div>
 <br>
