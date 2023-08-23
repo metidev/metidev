@@ -31,6 +31,6 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=metidev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=metidev&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/2a8d99ad-963e-4dc3-9d8e-92c4a2612663.svg)](https://wakatime.com/@2a8d99ad-963e-4dc3-9d8e-92c4a2612663)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
