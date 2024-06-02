@@ -1,4 +1,4 @@
-# <img src="https://camo.githubusercontent.com/d5cecab4395f3e10b6043e677f65113b660a98e4e1bfc35f4d3b1a0f0c5504fc/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966" width="25" height="25" /> About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Vazir+Matn&size=27&duration=4000&pause=1000&color=009FF7&vCenter=true&width=435&lines=Hi%2C+I+am+Mahdi+Anvari;+A+full+stack+developer)](https://git.io/typing-svg)
 <br> Innovative web and Android developer with a strong focus on user-friendly applications.<br> Proficient in HTML, CSS, JavaScript, PHP, C#, Java. <br>Collaborative team player experienced in delivering high-quality solutions aligned with business goals. <br>Committed to continuous learning and staying updated with the latest industry trends. <br>Let's connect and bring your ideas to life
 <br><br>
