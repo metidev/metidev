@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="45" height="45" /> About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Vazir+Matn&size=27&duration=4000&pause=1000&color=009FF7&vCenter=true&width=435&lines=Hi%2C+I+am+Mahdi+Anvari;+A+full+stack+developer)](https://git.io/typing-svg)
-<br> Innovative web and Android developer with a strong focus on user-friendly applications.<br> Proficient in HTML, CSS, JavaScript, PHP, C#, Java. <br>Collaborative team player experienced in delivering high-quality solutions aligned with business goals. <br>Committed to continuous learning and staying updated with the latest industry trends. <br>Let's connect and bring your ideas to life
+<br>Hello im Mehdi Anvari, Innovative web and Android developer with a strong focus on user-friendly applications.<br> Proficient in HTML, CSS, JavaScript, PHP, C#, Java. <br>Collaborative team player experienced in delivering high-quality solutions aligned with business goals. <br>Committed to continuous learning and staying updated with the latest industry trends. <br>Let's connect and bring your ideas to life
 <br><br>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="45" height="45" />  Tech Stack</h1>
