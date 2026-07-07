@@ -22,7 +22,7 @@
 │                                              │
 │   "Breaking things to understand them."      │
 │                                              │
-│   root@meti:~$ ./start_learning.sh        │
+│   root@meti:~$ ./start_learning.sh           │
 │                                              │
 └──────────────────────────────────────────────┘
 
@@ -107,25 +107,6 @@ philosophy:
 
 </div>
 
----
-
-# 🧪 Security Platforms
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/metidev">
-<img src="https://tryhackme-badges.s3.amazonaws.com/metidev.png" alt="TryHackMe Badge"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TryHackMe-Learning%20Path-red?style=for-the-badge&logo=tryhackme"/>
-
-<img src="https://img.shields.io/badge/PortSwigger-Web%20Security-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge&logo=owasp"/>
-
-</div>
 
 ---
 
@@ -136,7 +117,7 @@ philosophy:
 
 $ whoami
 
-metidev
+meti
 
 $ cat role.txt
 
@@ -186,19 +167,7 @@ Coming soon...
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=metidev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=metidev&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metidev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 ---
@@ -215,7 +184,7 @@ Coming soon...
 
 # ⌨️ Coding Activity
 
-<div align="center">
+<div align="left">
 
 <img src="https://wakatime.com/badge/user/2a8d99ad-963e-4dc3-9d8e-92c4a2612663.svg"/>
 
