@@ -200,15 +200,6 @@ Coming soon...
 
 </div>
 
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=metidev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
